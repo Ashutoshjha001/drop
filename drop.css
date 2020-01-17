@@ -1,0 +1,12 @@
+body{
+	background-color: #b3ffff;
+	background-image: url("bcg1.jpg");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	background-position: center;
+	height: 100%;
+    background-blend-mode: lighten;
+}
+form{
+	margin-top: 10em;
+}
